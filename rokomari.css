@@ -1,0 +1,352 @@
+body{
+    background-color: whitesmoke;
+}
+
+.header{
+    background-color: white;
+    height: 160px;
+    width: 1300px   ;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+  border-bottom: 1px solid #318bd4;
+  box: shadow 5px; black;
+}
+
+.upper img{
+    position: relative;
+    top:10px;
+    left: 54px;
+    float: left;
+}
+
+.img1{
+    position: relative;
+top: 2px;
+
+}
+
+.imgcon{
+    position: relative;
+    left: 55px;
+    top: 10px;
+    }
+
+.upper input{
+height: 46px;
+width: 635px;
+position: relative;
+top: 39px;
+left: 83px;
+border-bottom: 3px solid orange;
+border-top: 1px solid rgb(207, 207, 207);
+border-right: 1px solid rgb(207, 207, 207);
+border-left: 1px solid rgb(207, 207, 207);
+border-radius: 3px;
+float: left;
+}
+
+.upper i{
+   background-color:#318bd4; ;
+  width: 27px;
+   padding: 10px;
+   font-size: 26px;
+   font-style: thin;
+ color:white;
+    float: left;
+    position: relative;
+   top: 40px;
+   left: 73px;; 
+   border-radius: 3px;
+
+}
+
+
+
+ ul{
+    text-decoration: none;
+
+}
+
+ li {
+    display: block ;
+    list-style: none;
+    float: left;
+ padding: 10px;
+    font-size: 18px;
+    font-weight: 100;
+   
+}
+
+ a{
+    text-decoration: none;   
+}
+
+ul li a{
+    display: block;
+    padding: 10px 10px;
+    color: black;
+    transition: .3s ease;
+    position: relative;
+    left: 145px;
+}
+
+ .down ul li a:hover{
+    color:   #318bd4;
+}
+ .down ul li i{
+    color: #D32F2F;
+    font-size: 26px;
+    font-style: thin;
+     float: left;
+     position: relative;
+bottom: 2px;
+right: 2px;
+    border-radius: 3px;
+}
+
+.a a{
+    text-align: center;
+    color:#318bd4 ;
+    border: 1px solid #318bd4;
+ position: relative;
+ bottom: ;
+ left: 130px;
+border-bottom: none;
+width: 38px;
+height: 23px;
+
+}
+
+.a a{
+    color: #a1a4a7 ;
+}
+
+.header1{
+    height: 55px;
+    width: 1300px;
+    background-color: white;
+    position: relative;
+    right: 5px;
+    bottom: 20px;
+    text-align: center;
+    box: shadow 5px; black;
+}
+
+input{
+  background-color: white;
+  border: none;
+text-align: center;
+font-size: 16px;
+font-weight: 100;
+}
+
+.btn1{
+    padding-left: 40px;
+    position: relative;;
+    left: 90px;
+}
+
+.btn1{
+    color: black
+    padding-left: 40px;
+    position: relative;
+    right: 30px;
+    
+ }
+
+.btn1:hover{
+    color: #318bd4;
+    padding-left: 40px;
+    position: relative;
+    right: 30px;
+
+}
+
+.btn1s{
+    color: rgb(238, 162, 22);
+    padding-left: 40px;
+    position: relative;;
+    left: 90px;
+}
+
+.btn1s:hover{
+    color: black;
+    padding-left: 40px;
+    position: relative;;
+    left: 90px;
+}
+
+
+.btn1b{
+    color: rgb(93, 209, 15);
+    padding-left: 40px;
+    position: relative;;
+    left: 90px;
+}
+
+.btn1b:hover{
+    color: black;
+    padding-left: 40px;
+    position: relative;;
+    left: 90px;
+}
+
+.img1{
+    position: relative;
+    bottom: 55px;
+}
+
+.img {
+position: relative;
+left: 57px;
+bottom: 50px;
+}
+
+
+.img2{
+    float: left;
+}
+
+.img3{
+    float: left;
+}
+
+.img4{
+    float: left;
+}
+
+.reff{
+    background-color: white;
+    color: black;
+    padding: 7px;
+    height: 40px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow:7px 7px 15px rgb(194, 193, 196);  
+transform: rotate(270deg);
+position: relative;
+right: 150px;
+top:75px;
+text-align: center;
+
+}
+
+.btn{
+    position: relative;
+    top: 22px;
+    right: 919px;
+    padding-left: 12px;
+}
+
+.btn:hover{
+    position: relative;
+    top: 22px;
+    right: 919px;
+    padding-left: 12px;
+    color:#318bd4 ;
+}
+
+.header .upper .sign i{
+   background: none;
+   color: black;
+   font-size: 37px;
+   position: relative;
+   left: 150px;
+}
+
+.header .upper .sign input{
+    background: white;
+    width: 91px;
+    height: 35px;
+    color: black;
+    font-size: 17px;
+    font-weight: 100;
+    position: relative;
+    left: 150px;
+    border-radius: 3px;
+    border: 1px solid gray;
+  margin: 15px;
+ }
+
+
+ .header .upper .sign input:hover{
+    background: rgb(19, 206, 13);
+    width: 91px;
+    height: 35px;
+    color: white;
+    font-size: 24px;
+    position: relative;
+    left: 150px;
+    border-radius: 3px;
+    border: 1px solid rgb(19, 206, 13);
+  margin: 15px;
+  font-size: 17px;
+  font-weight: 100;
+ }
+
+ .header1 i{
+    position: relative;
+    top: 24px;
+    right: 920px;
+}
+
+.book{
+    background-image: url(pc.jpg);
+    width: 1150px;
+    height: 400px;
+    position: relative;
+    top: 120px;
+    left: 50px;
+    box-shadow: 4px 4px 4px 4px rgb(199, 198, 198);
+}
+
+.book h2{
+    font-size: 29px;
+    position: relative;
+    bottom: 70px;
+    left: 15px;
+    font-weight: 200;
+    color: black;
+    font-family: sans-serif;
+}
+
+.book1 h5{
+    font-weight: 300;
+position: relative;
+left: 33px;
+bottom: 5px;
+}
+
+.book1 h4{
+    position: relative;
+    bottom: 15px;
+}
+
+.book1{
+    position: relative;
+    left: 40px;
+    bottom: 35px;
+    min-width: 200px;
+    
+}
+
+.book1:hover{
+height: 270px;
+width: 150;
+opacity: 0.3;
+}
+
+.book1 input{
+    display:none;
+}
+
+.book1 input:hover{
+    background-color: #318bd4;
+  color: white;
+    display:block;
+}
+
+ 
+ 
+
